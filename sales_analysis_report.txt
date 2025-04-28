@@ -1,0 +1,6 @@
+
+Sales Analysis Report:
+-----------------------
+Total Sales: Rp25.252.500
+Average Sales: Rp182.989
+Highest Sales: Rp375.000
